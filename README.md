@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Digital Image Processing
+## EE225B at UC Berkeley
 
-You can use the [editor on GitHub](https://github.com/EmaadKhwaja/Digital_Image_Processing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Homework Set for Digitial Image Processing Class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Problem Set 1](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%201.html)
+- Gaussian Moments and Image Histograms
 
-### Markdown
+2. [Problem Set 2](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%202.html)
+- Histogram Equalization, Highboost Filtering, and Laplacian of Gaussian Filters in Spatial Domain
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. [Problem Set 3](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%203.html)
+- Discrete Fourier Transforms and Filtering in Fourier Domain
 
-```markdown
-Syntax highlighted code block
+4. [Problem Set 4](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%204.html)
+- Nonconvolutional Spatial Filtering (Mean, Median, Min, Max, Etc.)
 
-# Header 1
-## Header 2
-### Header 3
+5. [Problem Set 5](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%205.html)
+- Adaptive Mean and Wiener Filtering
 
-- Bulleted
-- List
+6. [Problem Set 6](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%206.html)
+- Radon Reconstruction and Projection Slice Theorem
 
-1. Numbered
-2. List
+7. [Problem Set 7](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%207.html)
+- Image Quantization and Entropy
 
-**Bold** and _Italic_ and `Code` text
+8. [Problem Set 8](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%208.html)
+- Discrete Wavelet Transforms
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmaadKhwaja/Digital_Image_Processing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+9. [Problem Set 9](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%209.html)
+- Phase and Magnitude Only Reconstruction
