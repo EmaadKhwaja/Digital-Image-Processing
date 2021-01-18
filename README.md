@@ -4,6 +4,8 @@
 
 Homework Set for Digitial Image Processing Class
 
+Explicit code has been excluded in compliance with university copyright policy.
+
 1. [Problem Set 1](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%201.html)
 - Gaussian Moments and Image Histograms
 
