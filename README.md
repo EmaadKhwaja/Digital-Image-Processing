@@ -49,4 +49,4 @@ Explicit code has been excluded in compliance with university copyright policy.
 9. [Problem Set 9](https://emaadkhwaja.github.io/Digital_Image_Processing/Problem%20Set%209.html)
 - Phase and Magnitude Only Reconstruction
 
-<img src="https://github.com/EmaadKhwaja/Digital_Image_Processing/blob/main/images/8.png?raw=true" height="200">
+<img src="https://github.com/EmaadKhwaja/Digital_Image_Processing/blob/main/images/9.png?raw=true" height="200">
